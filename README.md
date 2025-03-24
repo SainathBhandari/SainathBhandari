@@ -6,15 +6,35 @@
 📺 I make Cybersecurity youtube videos - <br/> 
 🌟 Join the 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects and Internship:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ Tata Cybersecurity Security Analyst Job Simulation on Forage - March 2025 <br/>
 
-<h2>📝 Certifications:</h2>
+ * Completed a job simulation involving identity and access management (IAM) for
+   Tata Consultancy Services, collaborating with a Cybersecurity Consulting
+   team.
+ * Acquired expertise in IAM principles, cybersecurity best practices, and
+   strategic alignment with business objectives.
+ * Delivered comprehensive documentation and presentations, showcasing the
+   ability to communicate complex technical concepts effectively.
+
+ AIG Shields Up: Cybersecurity virtual experience program on Forage - March 2025 <br/>
+
+ * Completed a cybersecurity threat analysis simulation for the Cyber Defense
+   Unit, staying updated on CISA publications.
+ * Researched and understood reported vulnerabilities, showcasing analytical
+   skills in cybersecurity.
+ * Drafted a clear and concise email to guide teams on vulnerability
+   remediation.
+ * Utilized Python skills to write a script for ethical hacking, avoiding ransom
+   payments by bruteforcing decryption keys.
+
+<h2>📝 CyberSecurity Certifications:</h2>
 
 - [CNSS - Certified Network Security Specialist](https://ondemand.icsiglobal.com/certificates/nfazdlfn9y)
 - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/720859044)
-- [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/720859044)
+- [Malware Analysis](https://app.letsdefend.io/my-rewards/detail/0ed17b9b-9b33-4f56-b9fe-3277935b0b60)
+- 
 
 
 # 💻 Tech Stack:
